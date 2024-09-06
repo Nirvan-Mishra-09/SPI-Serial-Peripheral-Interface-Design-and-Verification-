@@ -103,3 +103,6 @@ The testbench runs a simulation with the following sequence:
 2. The driver sends this data to the DUT.
 3. The monitor checks the output data from the DUT.
 4. The scoreboard compares the output with the expected results to verify correctness.
+
+![image](https://github.com/user-attachments/assets/e7dce83a-c87e-421f-b947-dd4761ae5c8b)
+
