@@ -1,1 +1,1 @@
-# SPI-Serial-Peripheral-Interface-Design-and-Verification-
+# SPI (Serial Peripheral Interface) Design and Verification
