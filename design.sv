@@ -18,7 +18,6 @@ output reg sclk,cs,mosi
             sclk <= 0;
             
         end
-        // to understand this look in notes
         else begin
           if (countc < 10) begin	//assuming system clk being 20, so the sclk being fclk/2
                 countc <= countc + 1;
