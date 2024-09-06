@@ -17,8 +17,6 @@ This repository contains the SystemVerilog implementation of an SPI (Serial Peri
   - [Scoreboard Class](#scoreboard-class)
   - [Environment Class](#environment-class)
 - [Simulation](#simulation)
-- [How to Run](#how-to-run)
-- [License](#license)
 
 ## Project Overview
 
@@ -64,6 +62,7 @@ A SystemVerilog testbench is provided to verify the correct functionality of the
 - When all bits are received, outputs the data on `dout`.
 
 ### Top Module
+![image](https://github.com/user-attachments/assets/f0f951c1-1cb3-4c1e-a037-82789299a48e)
 
 Integrates the `spi_master` and `spi_slave` modules, ensuring proper connection of signals between them.
 
